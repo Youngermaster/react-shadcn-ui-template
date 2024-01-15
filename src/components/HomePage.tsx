@@ -16,10 +16,7 @@ export default function HomePage() {
         </p>
       </div>
       <div className="flex gap-4">
-        <a
-          href={siteConfig.links.docs}
-          className={buttonVariants()}
-        >
+        <a href={siteConfig.links.docs} className={buttonVariants()}>
           Documentation
         </a>
         <a
@@ -30,5 +27,5 @@ export default function HomePage() {
         </a>
       </div>
     </section>
-  )
+  );
 }

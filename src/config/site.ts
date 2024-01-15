@@ -1,4 +1,4 @@
-export type SiteConfig = typeof siteConfig
+export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: "Next.js",
@@ -15,4 +15,4 @@ export const siteConfig = {
     github: "https://github.com/shadcn/ui",
     docs: "https://ui.shadcn.com",
   },
-}
+};
