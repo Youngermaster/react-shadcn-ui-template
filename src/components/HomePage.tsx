@@ -1,4 +1,3 @@
-import React from "react";
 import { siteConfig } from "@/config/site";
 import { buttonVariants } from "@/components/ui/button";
 
